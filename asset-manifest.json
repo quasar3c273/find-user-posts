@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/voodooTest/static/css/main.49025a3c.chunk.css",
-    "main.js": "/voodooTest/static/js/main.6906e232.chunk.js",
-    "main.js.map": "/voodooTest/static/js/main.6906e232.chunk.js.map",
+    "main.js": "/voodooTest/static/js/main.955c732e.chunk.js",
+    "main.js.map": "/voodooTest/static/js/main.955c732e.chunk.js.map",
     "runtime-main.js": "/voodooTest/static/js/runtime-main.dac0723b.js",
     "runtime-main.js.map": "/voodooTest/static/js/runtime-main.dac0723b.js.map",
     "static/css/2.0a9ec390.chunk.css": "/voodooTest/static/css/2.0a9ec390.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.fd02dbbd.chunk.js",
     "static/css/main.49025a3c.chunk.css",
-    "static/js/main.6906e232.chunk.js"
+    "static/js/main.955c732e.chunk.js"
   ]
 }

@@ -4,7 +4,7 @@ const PostList = ({ posts }) => {
     return (
         <>
             <div className="container">
-                <div className="row">
+                <div className="row mt-5">
                     {posts.map((post) => (
                         <Post key={post.id} post={post} />
                     ))}

@@ -3,6 +3,7 @@ import Header from "./components/header";
 import React, { useEffect } from "react";
 import getPosts from "./getData/getPosts";
 import "./App.css";
+import Spinner from "./components/spinner";
 
 function App() {
     const [posts, setPosts] = React.useState([]);
@@ -25,7 +26,11 @@ function App() {
     return (
         <>
             <Header handleSearch={handleChange} />
-            <PostList posts={filteredPosts} />
+            {filteredPosts.length === 0 ? (
+                <Spinner />
+            ) : (
+                <PostList posts={filteredPosts} />
+            )}
         </>
     );
 }

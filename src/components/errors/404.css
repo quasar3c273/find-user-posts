@@ -1,5 +1,6 @@
 .wrapper {
     position: relative;
+    height: 100vh;
     margin: auto;
     top: 50%;
     left: 0;

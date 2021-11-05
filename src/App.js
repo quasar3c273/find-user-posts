@@ -12,10 +12,10 @@ function App() {
     const [userInfo, setUserInfo] = React.useState({});
 
     useEffect(() => {
-        getUsers().then(data => {
+        getUsers().then((data) => {
             setUserInfo(data);
         });
-    }, [])
+    }, []);
     useEffect(() => {
         getPosts().then((posts) => {
             setPosts(posts);
@@ -23,7 +23,7 @@ function App() {
     }, []);
 
     const fullPostInfo = posts.map((post) => {
-        return { ...post, userName: userInfo[post.userId - 1].userName};
+        return { ...post, userName: userInfo[post.userId - 1].userName };
     });
 
     const handleChange = (event) => {
@@ -33,7 +33,9 @@ function App() {
     const filteredPosts =
         filter === ""
             ? fullPostInfo
-            : fullPostInfo.filter((post) => post.userName.toLowerCase().includes(filter.toLowerCase()));
+            : fullPostInfo.filter((post) =>
+                  post.userName.toLowerCase().includes(filter.toLowerCase())
+              );
 
     return (
         <>

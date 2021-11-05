@@ -1,5 +1,5 @@
 To view the application without downloading, you can follow the link "https://quasar3c273.github.io/voodooTest/"
-Для просмотра прилодения без скачивания можно перейти по ссылке "https://quasar3c273.github.io/voodooTest/"
+Для просмотра приложения без скачивания можно перейти по ссылке "https://quasar3c273.github.io/voodooTest/"
 
 ## Available Scripts
 

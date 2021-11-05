@@ -9,7 +9,7 @@ const Post = ({ post }) => {
                     <hr />
                     <p className="card-text">{post.body}</p>
                     <div className="cart__footer">
-                        <p>posted by userId: {post.userId}</p>
+                        <p>{post.userName}</p>
                     </div>
                 </div>
             </div>

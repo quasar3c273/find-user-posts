@@ -22,7 +22,7 @@ const NavBar = ({ handleSearch }) => {
                         onChange={handleSearch}
                         id="search-user"
                         type="search"
-                        placeholder="Введите id пользователя"
+                        placeholder="Введите имя пользователя"
                         className="me-2"
                         aria-label="Search"
                     />

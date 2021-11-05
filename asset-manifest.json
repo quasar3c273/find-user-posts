@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/voodooTest/static/css/main.d314544b.chunk.css",
-    "main.js": "/voodooTest/static/js/main.e0676aa6.chunk.js",
-    "main.js.map": "/voodooTest/static/js/main.e0676aa6.chunk.js.map",
-    "runtime-main.js": "/voodooTest/static/js/runtime-main.a6a6f25f.js",
-    "runtime-main.js.map": "/voodooTest/static/js/runtime-main.a6a6f25f.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/voodooTest/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.1e4add50.chunk.js": "/voodooTest/static/js/2.1e4add50.chunk.js",
-    "static/js/2.1e4add50.chunk.js.map": "/voodooTest/static/js/2.1e4add50.chunk.js.map",
-    "static/js/3.5148453b.chunk.js": "/voodooTest/static/js/3.5148453b.chunk.js",
-    "static/js/3.5148453b.chunk.js.map": "/voodooTest/static/js/3.5148453b.chunk.js.map",
-    "index.html": "/voodooTest/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/voodooTest/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.d314544b.chunk.css.map": "/voodooTest/static/css/main.d314544b.chunk.css.map",
-    "static/js/2.1e4add50.chunk.js.LICENSE.txt": "/voodooTest/static/js/2.1e4add50.chunk.js.LICENSE.txt"
+    "main.css": "/find-user-posts/static/css/main.d314544b.chunk.css",
+    "main.js": "/find-user-posts/static/js/main.c8abf0e6.chunk.js",
+    "main.js.map": "/find-user-posts/static/js/main.c8abf0e6.chunk.js.map",
+    "runtime-main.js": "/find-user-posts/static/js/runtime-main.4ddb4bd3.js",
+    "runtime-main.js.map": "/find-user-posts/static/js/runtime-main.4ddb4bd3.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/find-user-posts/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.67493e05.chunk.js": "/find-user-posts/static/js/2.67493e05.chunk.js",
+    "static/js/2.67493e05.chunk.js.map": "/find-user-posts/static/js/2.67493e05.chunk.js.map",
+    "static/js/3.c113f70b.chunk.js": "/find-user-posts/static/js/3.c113f70b.chunk.js",
+    "static/js/3.c113f70b.chunk.js.map": "/find-user-posts/static/js/3.c113f70b.chunk.js.map",
+    "index.html": "/find-user-posts/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/find-user-posts/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.d314544b.chunk.css.map": "/find-user-posts/static/css/main.d314544b.chunk.css.map",
+    "static/js/2.67493e05.chunk.js.LICENSE.txt": "/find-user-posts/static/js/2.67493e05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6a6f25f.js",
+    "static/js/runtime-main.4ddb4bd3.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.1e4add50.chunk.js",
+    "static/js/2.67493e05.chunk.js",
     "static/css/main.d314544b.chunk.css",
-    "static/js/main.e0676aa6.chunk.js"
+    "static/js/main.c8abf0e6.chunk.js"
   ]
 }

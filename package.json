@@ -1,6 +1,6 @@
 {
-    "homepage": "https://quasar3c273.github.io/voodooTest",
-    "name": "voodoo",
+    "homepage": "https://quasar3c273.github.io/find-user-posts",
+    "name": "find-user-posts",
     "version": "0.1.0",
     "private": true,
     "dependencies": {

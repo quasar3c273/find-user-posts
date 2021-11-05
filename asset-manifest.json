@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/voodooTest/static/css/main.30168569.chunk.css",
-    "main.js": "/voodooTest/static/js/main.1d01f5da.chunk.js",
-    "main.js.map": "/voodooTest/static/js/main.1d01f5da.chunk.js.map",
+    "main.css": "/voodooTest/static/css/main.d314544b.chunk.css",
+    "main.js": "/voodooTest/static/js/main.e0676aa6.chunk.js",
+    "main.js.map": "/voodooTest/static/js/main.e0676aa6.chunk.js.map",
     "runtime-main.js": "/voodooTest/static/js/runtime-main.a6a6f25f.js",
     "runtime-main.js.map": "/voodooTest/static/js/runtime-main.a6a6f25f.js.map",
     "static/css/2.0a9ec390.chunk.css": "/voodooTest/static/css/2.0a9ec390.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.5148453b.chunk.js.map": "/voodooTest/static/js/3.5148453b.chunk.js.map",
     "index.html": "/voodooTest/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/voodooTest/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.30168569.chunk.css.map": "/voodooTest/static/css/main.30168569.chunk.css.map",
+    "static/css/main.d314544b.chunk.css.map": "/voodooTest/static/css/main.d314544b.chunk.css.map",
     "static/js/2.1e4add50.chunk.js.LICENSE.txt": "/voodooTest/static/js/2.1e4add50.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a6a6f25f.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.1e4add50.chunk.js",
-    "static/css/main.30168569.chunk.css",
-    "static/js/main.1d01f5da.chunk.js"
+    "static/css/main.d314544b.chunk.css",
+    "static/js/main.e0676aa6.chunk.js"
   ]
 }
